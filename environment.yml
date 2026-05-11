@@ -1,0 +1,20 @@
+name: tpw_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy>=1.15
+  - matplotlib
+  - jupyterlab
+  - h3-py=3.7.6
+  - statsmodels
+  - scikit-learn
+  - joblib
+  - shapely
+  - cartopy
+  - pip
+  - pip:
+    - pygplates
