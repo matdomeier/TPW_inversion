@@ -1,4 +1,5 @@
 ## TPW_inversion
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20127221.svg)](https://doi.org/10.5281/zenodo.20127221)
 
 This is a collection of data, python codes and jupyter notebooks supporting the paper "Quadrupolar sea-level fluctuations reveal epsiodes of rapid polar wander" by Mathew Domeier, Leandro C. Gallo, Chloé Marcilly and Trond H. Torsvik. The contents include the following:
 
