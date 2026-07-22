@@ -17,7 +17,7 @@ This is a collection of data, python codes and jupyter notebooks supporting the 
 
 7) reconstruct_inversions.ipynb: uses the results of the invert_data.ipynb notebook and the supplied plate model to generate paleogeographic maps of the data and inversion results.
 
-8) validation_experiments.ipynb: runs synthetic tests to evaluate the performance of the method on synthetic test data.
+8) validation_experiments.ipynb: runs synthetic tests to evaluate the performance of the method on synthetic test data. 
 
 9) environment.yml: .yml file describing the packages necessary to run all the codes in this repository.
     
