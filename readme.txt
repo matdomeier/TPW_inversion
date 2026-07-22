@@ -19,7 +19,5 @@ This is a collection of data, python codes and jupyter notebooks supporting the 
 
 8) validation_experiments.ipynb: runs synthetic tests to evaluate the performance of the method on synthetic test data.
 
-9) aliasing_tests.ipynb: runs tests to assess the likelihood that the detected TPW signals could represent superposed higher-degree structures aliased to lower-degree. 
-
-10) environment.yml: .yml file describing the packages necessary to run all the codes in this repository.
+9) environment.yml: .yml file describing the packages necessary to run all the codes in this repository.
     
